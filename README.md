@@ -1,2 +1,2 @@
-# magento2-faq-sample-data-extension
-Install Sample Data For PHPCuong_Faq module in Magento 2
+# Install the sample data for PHPCuong_Faq module in Magento 2
+PHPCuong_Faq module consists of installation scripts and fixtures.

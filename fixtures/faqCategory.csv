@@ -1,0 +1,9 @@
+title,identifier,is_active,user_id
+Account,account,1,1
+Shipping and Tracking,shipping-and-tracking,1,1
+Membership,membership,1,1
+Returns,returns,1,1
+Gift Voucher,gift-voucher,1,1
+Payment,payment,1,1
+Bidding and Buying,bidding-and-buying,1,1
+Fees and billing,fees-and-billing,1,1
